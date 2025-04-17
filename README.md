@@ -3,7 +3,7 @@
 Can a computer tell the difference between real and fake news?
 
 In this project, I use natural language processing and machine learning to build a model that tries to do just that. 
-In this era of information overload and misinformation, it's a small step in the fight -- and a fun way to explore 
+In this era of information overload and misinformation, it's a small step in the fight — and a fun way to explore 
 how computers understand text.
 
 ## The Roadmap
