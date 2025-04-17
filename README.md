@@ -21,11 +21,16 @@ how computers understand text.
 - **TfidfVectorizer** - for feature extraction from text
 - **scikit-learn** — for machine learning model training and evaluation
 
+## The Dataset
+
+The full dataset (111MB) is stored locally and not included in this repo due to GitHub's file size limit. A sample
+file ('fake_news_sample.csv') with the first 100 rows is included for reference and testing.
+
 ## Acknowledgements
 
 I came up with the idea for this model while working on a project in my NLP course, taught by Michele Samorani, 
 Associate Professor in the Department of Information Systems and Analytics at the Leavey School of Business at 
-Santa Clara University. The dataset used in this project also comes from that class.
+Santa Clara University. The dataset mentioned above also comes from that class.
 
 ## Note
 This notebook is a work in progress. The only way to code is to practice. Stay tuned for more
