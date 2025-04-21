@@ -33,4 +33,4 @@ Associate Professor in the Department of Information Systems and Analytics at th
 Santa Clara University. The dataset mentioned above also comes from that class.
 
 ## Note
-This notebook is a work in progress. The only way to code is to practice. Stay tuned for more
+This notebook is a work in progress. The only way to code is to practice. Stay tuned for more.
